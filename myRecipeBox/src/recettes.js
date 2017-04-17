@@ -1,4 +1,4 @@
-// Une liste de recettes pour remplir directement ta boîte !!
+// Une liste de recettes pour remplir directement la boîte !!
 module.exports = {
   recette1: {
     nom: 'Salade d\'épinards du Soleil',
